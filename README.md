@@ -1,4 +1,4 @@
-## Hello there, I'm Molly ✨
+## Hello there, I'm Molly Finglas ✨
 
 - 🔭 Web Developer & Marketer with a unique background. I've got a grad cert in web dev from QUT, plus a master's in marketing and a dual bachelor's in arts and communication.
 - ⚡ I love combining my marketing brain with my dev skills to build sites that perform.
