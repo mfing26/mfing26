@@ -1,8 +1,8 @@
 ## Hello there, I'm Molly ✨
 
-- 🔭 Web Developer and Marketer
-- ⚡ Currently completing a grad cert in web development from QUT
-
+- 🔭 Web Developer & Marketer with a unique background. I've got a grad cert in web dev from QUT, plus a master's in marketing and a dual bachelor's in arts and communication.
+- ⚡ I love combining my marketing brain with my dev skills to build sites that perform.
+- 💻 Right now, I'm working on some freelance projects where I am developing a new site for a pilates instructor and boosting site performance for a food and recipe influencer.
 
 
 ## 🌐 Socials:
